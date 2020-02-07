@@ -1,0 +1,6 @@
+set_io --warn-no-port   clk       8       # GPIO25/DIL10
+
+set_io                  sck      15      # 'A'
+set_io                  mosi     12      # 'C'
+set_io                  miso     13      # 'B'
+set_io                  ss       14      # '12'

@@ -1,0 +1,10 @@
+set_io --warn-no-port ledR     31      # LED_RED
+set_io --warn-no-port ledG     32      # LED_GREEN
+set_io --warn-no-port ledB      1      # LED_BLUE
+
+set_io a        15      # 'A'
+set_io b        13      # 'B'
+set_io type[0]  12      # 'C'
+set_io type[1]  14      # '12'
+
+set_io outA     19      # 'E'

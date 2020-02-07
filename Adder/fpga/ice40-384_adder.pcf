@@ -1,0 +1,12 @@
+set_io --warn-no-port   ledR     31       # LED_RED
+set_io --warn-no-port   ledG     32       # LED_GREEN
+set_io --warn-no-port   ledB      1       # LED_BLUE
+
+set_io --warn-no-port   clk       8       # GPIO25/DIL10
+
+set_io A       15          # 'A'
+set_io B       13          # 'B'
+set_io Cin     12          # 'C'
+
+set_io outA    14          # '12'
+set_io outB    19          # 'E'

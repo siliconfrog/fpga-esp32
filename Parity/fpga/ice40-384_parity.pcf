@@ -1,0 +1,11 @@
+set_io --warn-no-port clk       8       # GPIO25 / DIL10
+set_io --warn-no-port ledR     31       # LED_RED
+set_io --warn-no-port ledG     32       # LED_GREEN
+set_io --warn-no-port ledB      1       # DIL5 = LED Blue
+
+set_io --warn-no-port out[0]   15       # 'A'
+set_io --warn-no-port out[1]   13       # 'B'
+set_io --warn-no-port out[2]   12       # 'C'
+set_io --warn-no-port out[3]   14       # '12'
+
+set_io --warn-no-port parity   19       # 'E'

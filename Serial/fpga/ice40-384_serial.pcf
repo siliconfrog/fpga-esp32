@@ -1,0 +1,8 @@
+set_io --warn-no-port   ledR     31       # LED_RED
+set_io --warn-no-port   ledG     32       # LED_GREEN
+set_io --warn-no-port   ledB      1       # LED_BLUE
+
+set_io --warn-no-port   clk       8       # 16MHz clock
+
+set_io --warn-no-port   rx       13       # MOSI 'B'
+set_io --warn-no-port   tx       12       # MISO 'C'

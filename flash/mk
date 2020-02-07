@@ -1,0 +1,1 @@
+gcc -Wall fpga-384.cpp -lstdc++ -o fpga-384
